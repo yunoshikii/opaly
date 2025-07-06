@@ -1,7 +1,7 @@
 HOW TO INSTALL 
 
 
-git clone https://github.com/yunoshikii/nigger
+git clone https://github.com/yunoshikii/opaly 
 
 cd nigger 
 
